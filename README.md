@@ -19,7 +19,7 @@ It's made with React and [MUI](https://mui.com) in JavaScript, and is connected 
 HUXXIV is a TypeScript + React web app (in pre-alpha) that tracks how Hungarian words will change in the next three centuries, including changes in meaning, pronunciation and inflection.
 
 <p align="center">
-  <img src="./img/huxxiv-pron.jpg" height="400" />
+  <img src="./img/huxxiv-pron.jpg" height="370" />
 </p>
 
 ## Contact
