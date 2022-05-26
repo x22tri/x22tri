@@ -10,8 +10,8 @@ Sino-sztorik is a web app (in progress) for Hungarian learners of Chinese. It te
 It's made with React and [MUI](https://mui.com) in JavaScript, and is connected to a MySQL database through a [Node.js/Express backend](https://github.com/x22tri/sino-sztorik-backend).
 
 <p align="center">
-  <img src="./img/sino-lessonselect.jpg" height="250" width="500" />
-  <img src="./img/sino-char.jpg" height="250" width="500" />
+  <img src="./img/sino-lessonselect.jpg" height="350" />
+  <img src="./img/sino-char.jpg" height="350" />
 </p>
 
 ## [HUXXIV](https://x22tri.github.io/huxxiv/)
