@@ -1,4 +1,4 @@
-### Dávid Dió (x22tri)
+### Greetings!
 
 Hi, I'm Dávid! Welcome to my GitHub.
 Here's an overview of my side projects.
@@ -10,6 +10,8 @@ Sino-sztorik is a web app (in progress) for Hungarian learners of Chinese. It te
 It's made with React and [MUI](https://mui.com) in JavaScript, and is connected to a MySQL database through a [Node.js/Express backend](https://github.com/x22tri/sino-sztorik-backend).
 
 <p align="center">
+  <img src="./img/sino-lessonselect.jpg" height="250" width="500" />
+  <img src="./img/sino-char.jpg" height="250" width="500" />
 </p>
 
 ## [HUXXIV](https://x22tri.github.io/huxxiv/)
@@ -17,6 +19,7 @@ It's made with React and [MUI](https://mui.com) in JavaScript, and is connected 
 HUXXIV is a TypeScript + React web app (in pre-alpha) that tracks how Hungarian words will change in the next three centuries, including changes in meaning, pronunciation and inflection.
 
 <p align="center">
+  <img src="./img/huxxiv-pron.jpg" height="400" />
 </p>
 
 ## Contact
