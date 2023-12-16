@@ -3,7 +3,7 @@
 Hi, I'm Dávid! Welcome to my GitHub.
 Here's an overview of my side projects.
 
-## Sino-sztorik(https://github.com/x22tri/sino-sztorik)
+## [Sino-sztorik](https://github.com/x22tri/sino-sztorik)
 
 Sino-sztorik is a web app for Hungarian learners of Chinese. It teaches Chinese characters through visual associations and stories.
 
